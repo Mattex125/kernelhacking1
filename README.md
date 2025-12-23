@@ -1,4 +1,4 @@
-#ciao per compilare il tuo kernel custom con i miei moduli
+##ciao per compilare il tuo kernel custom con i miei moduli (fine del corso kernel hacking unimore 2025)##
 
 cerca la cartella in cui lo hai clonato e fai
 cd /linux
