@@ -1,0 +1,8 @@
+#file kernels mio
+
+config miomodulo
+	tristate "modulo bello"
+	default y
+	help
+		best modulo of ever letsgoski
+
